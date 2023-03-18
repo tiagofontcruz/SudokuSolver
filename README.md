@@ -23,7 +23,7 @@ Unzip the content of the file in your local repository
 
 ### Executing program
 
-* Open Eclipse by choosing the option "Open projects From File System".
+* Open the project by choosing the option "Open projects From File System".
 * Click on the green play button located in the center top to run the program.
 
 ## Help
